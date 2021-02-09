@@ -1,0 +1,44 @@
+{
+	"errorNo": 0,
+	"message": "success",
+	"data": [
+    {
+			"id": 100,
+			"menuName": "个税",
+			"level": 1,
+			"orderWeight": 1,
+			"subMenu": [{
+				"id": 105,
+				"menuName": "申报",
+				"level": 2,
+				"orderWeight": 1,
+				"subMenu": null
+			}, {
+				"id": 104,
+				"menuName": "自然人",
+				"level": 2,
+				"orderWeight": 2,
+				"subMenu": [{
+					"id": 110,
+					"menuName": "账号相关",
+					"level": 3,
+					"orderWeight": 1,
+					"subMenu": null
+				},{
+					"id": 111,
+					"menuName": "账号相关test1",
+					"level": 3,
+					"orderWeight": 1,
+					"subMenu": null
+				}]
+			}]
+		},
+		{
+			"id": 202,
+			"menuName": "通用技术",
+			"level": 1,
+			"orderWeight": 2,
+			"subMenu": null
+		}
+	]
+}

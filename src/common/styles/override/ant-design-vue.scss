@@ -1,0 +1,13 @@
+
+.ant-btn.f-fr+.ant-btn {
+  margin-right: 15px;
+}
+
+.ant-btn + .ant-btn {
+  margin-left: 15px;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper.ant-tree-node-selected {
+  background-color: #1890ff;
+  color: white;
+}

@@ -1,0 +1,20 @@
+{
+	"errorNo": 0,
+	"message": "success",
+	"data": {
+    "list":[
+    	{
+      	"id":1,
+      	"toolName":"工具1",
+      	"owner":"维护人1"       
+			},
+			{"id":1,"toolName":"test001","owner":"维护人1","firstMenuId":100,"secondMenuId":104,"thirdMenuId":110,"remarks":"","webJson":"{\"headers\":[{\"name\":\"新增\",\"url\":\"/api/taxer/add\",\"method\":\"POST\",\"contentType\":\"application/json\"}],\"params\":[{\"name\":\"纳税人\",\"charactor\":\"taxer\",\"type\":\"String\",\"required\":1,\"value\":\"\",\"sub\":[]}]}"},
+    	{
+      	"id":2,
+      	"toolName":"工具2",
+      	"owner":"维护人1"
+    	}
+  	],
+    "total":10
+  }
+}

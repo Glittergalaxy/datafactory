@@ -1,0 +1,14 @@
+{
+	"errorNo": 0,
+	"message": "success",
+	"result": {
+    "id":1234,
+		"toolName":"创建账号",
+		"owner":"吴锺瑞",
+		"firstMenuId":123,
+		"secondMenuId":456, 
+		"thirdMenuId":null,
+  	"webJson":"{}",
+		"remarks":"登记序号必填，登记类型可为空。"
+	}
+}

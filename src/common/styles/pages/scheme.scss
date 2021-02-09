@@ -1,0 +1,30 @@
+.scheme-hd,
+.scheme-row {
+  display: flex;
+  justify-content: center;
+  border-width: 1px 1px 0 1px;
+  border-style: solid;
+  border-color: #dedee1;
+}
+.scheme-row:last-child {
+  border-bottom: 1px solid #dedee1;
+}
+.scheme-cell {
+  flex: 1 0;
+  padding: 5px 8px;
+  line-height: 30px;
+  // border-right: 1px solid #dedee1;
+  text-align: center;
+}
+.scheme-cell:last-child {
+  border-right: 0;
+}
+.scheme-cell--short {
+  flex: 0 1 80px;
+}
+
+.scheme-font {
+  font-size: 20px;
+  color: #1890ff;
+  margin-right: 10px;
+}
